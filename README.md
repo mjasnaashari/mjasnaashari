@@ -1,7 +1,9 @@
 ## Hi there, I'm Mohammad Javad Asna Ashari 👋
-![Mjasnaashari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjasnaashari&theme=dark&show_icons=true&bg_color=00000000)
+![mjasnaashari's Stats](https://github-readme-stats.vercel.app/api?username=mjasnaashari&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjasnaashari&theme=dark&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide=javascript,css,html,astro,scss,blade,typescript,mdx,vue,hack,shell,dockerfile,matlab,jupyter%20notebook)
+![mjasnaashari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjasnaashari&theme=dark&hide_border=false)
+
+![mjasnaashari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjasnaashari&theme=dark&show_icons=true&hide_border=false&layout=compact&hide=javascript,css,html,astro,scss,blade,typescript,mdx,vue,hack,shell,dockerfile,matlab,jupyter%20notebook)
 
 ### Here are some ideas to get you started:
 
