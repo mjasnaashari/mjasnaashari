@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PHP/Laravel** projects
 - 🌱 I’m currently learning **Laravel** and **Machine Learning**
-- 📫 How to reach me: [**Email**](mailto:mohammadjavadasnaashari@gmail.com), [**Linkedin**](https://www.linkedin.com/in/mohammad-javad-asna-ashari-4b0894262/)
+- 📫 How to reach me: [**Email**](mailto:mohammadjavadasnaashari@gmail.com), [**Linkedin**](https://www.linkedin.com/in/mohammad-javad-asna-ashari)
 
 [//]: # (- 👯 I’m looking to collaborate on ...)
 [//]: # (- 🤔 I’m looking for help with ...)
